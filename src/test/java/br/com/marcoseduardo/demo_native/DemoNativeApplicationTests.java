@@ -1,0 +1,13 @@
+package br.com.marcoseduardo.demo_native;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DemoNativeApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
