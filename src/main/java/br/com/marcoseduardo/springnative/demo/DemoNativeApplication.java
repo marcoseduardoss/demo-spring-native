@@ -1,4 +1,4 @@
-package br.com.marcoseduardo.demo_native;
+package br.com.marcoseduardo.springnative.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
