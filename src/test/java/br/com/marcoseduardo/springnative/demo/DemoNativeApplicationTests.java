@@ -1,4 +1,4 @@
-package br.com.marcoseduardo.demo_native;
+package br.com.marcoseduardo.springnative.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
